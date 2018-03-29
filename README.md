@@ -1,4 +1,4 @@
-# libub
+# ublib
 
 General-purpose extensions for sklearn, gensim, and pytorch.
 
